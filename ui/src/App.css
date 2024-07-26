@@ -1,8 +1,0 @@
-a {
-  text-decoration: none;
-}
-
-dialog::backdrop {
-  background: rgba(0, 0, 0, 0.35);
-  backdrop-filter: blur(4px);
-}
